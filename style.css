@@ -1,0 +1,114 @@
+body{
+    margin: 0px;
+    background-color: rgb(186, 234, 245);
+    
+}
+
+nav{
+    background-color: rgb(44, 208, 245);
+    color: white;
+    padding: 2rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.nav-link{
+    text-decoration: none;
+    padding: 7px;
+    font-size: large;
+    color: white;
+}
+
+/* Is Triangle */
+
+.is-triangle{
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.angle-input{
+    padding: 5px;
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+.angles{
+    font-size: 20px;
+    padding: 8px;
+}
+
+#is-triangle-btn{
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 6px;
+    cursor: pointer;
+}
+
+#output{
+    margin: 20px;
+    font-size: 2rem;
+}
+
+/* Triangle Quiz */
+
+.questions{
+    margin-left: 50px;
+}
+
+.question{
+    font-size: x-large;
+}
+
+#submit-answer-btn{
+    padding: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: solid white;
+}
+
+#output-quiz{
+    margin-top: 20px;
+    font-size: x-large;
+}
+
+/* Hypotenuse */
+
+.hbody{
+    text-align: center;
+}
+
+.side-input{
+    margin-top: 20px;
+    width: 40%;
+    padding: 8px;
+}
+
+.h-btn{
+    padding: 7px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+/* Area */
+
+.area{
+    text-align: center;
+}
+
+.inputs{
+    margin-left: 10px;
+    width: 40%;
+    padding: 6px;
+}
+
+#calculate-area{
+    margin-top: 20px;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.names{
+    font-size: larger;
+}
